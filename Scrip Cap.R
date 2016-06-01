@@ -77,4 +77,4 @@ fit.8 <- glm(Survived ~ Pclass+Sex+Age+SibSp+Parch+Embarked+Title+Price, data=tr
 predict.8<-predict(fit.8,  newdata=test, type="response")
 test$Survived <- as.numeric(as.numeric(predict.8)>0.5)
 
-write.csv(test[,c("PassengerId", "Survived")],"C:\\Users\\JMR\\Documents\\Máster\\II Sem_SIGE\\Practica1\\Titanic\\Experimentos\\Experimento 01 Missing Values\\experimentodetitulos.csv", row.names=F)
+write.csv(test[,c("PassengerId", "Survived")],"\\experimentodetitulos.csv", row.names=F)
