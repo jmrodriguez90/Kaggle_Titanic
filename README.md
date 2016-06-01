@@ -4,6 +4,8 @@
 
 **Herramienta utilizada:** R Studio, versión 3.2.5
 
+*Realizado con la ayuda de los Scripts compartidos publicamente en Kaggle*
+
 **Usuario en Kaggle:** [jmrodriguez90](https://www.kaggle.com/jmrodriguez90)
 
 [![GPL V3](http://www.openra.net/images/gplv3.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
