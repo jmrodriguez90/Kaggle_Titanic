@@ -12,6 +12,13 @@
 
 ---
 
+###Introducción
+[Kaggle](https://www.kaggle.com/) es una plataforma de competición donde puede practicarse el aprendizaje automático, dicha plataforma, es además un semillero de trabajos para los que asumen la profesión del tratamiento de la información, esto se da mediante competiciones en las que se deja ver el nivel de conocimiento que se poseen en relación a una asociación de datos.
+Para efectos de la asignatura “Sistemas Inteligentes para la Gestión de Empresas” se dio de alta al grupo del [Máster Universitario en Ingeniería Informática](http://masteres.ugr.es/ing-informatica/) de la [UGR](http://www.ugr.es/) en la competición [“Titanic: Machine Learning from Disaster”](https://www.kaggle.com/c/titanic).
+
+###Herramienta a utilizar y configuración.
+Para efectos de calificación, no hubo una herramienta específica a utilizar, en este caso, se utilizó como herramienta de trabajo  R Studio, versión 3.2.5. 
+
 ###Instalación de R
 Para instalar R, habrá que dirigirse a su [página web](https://www.r-project.org/) para descargarlo. Pedirá que se elija el [servidor geográfico del cuál descargarlo](https://cran.r-project.org/mirrors.html), esto ayudará para que el lenguaje aparezca en español. Una vez se haya seleccionado el servidor, lanzará directamente la página con el [enlace de descarga](http://www.est.colpos.mx/R-mirror/) para los distintos sistemas operativos.
 
@@ -26,7 +33,11 @@ Cuando se necesite utilizar un paquete puede hacerse de la siguiente manera:
 
 Si quisiera utilizarse el paquete ggplot por ejemplo.
 
+Desde la consola de R también podrá ejecutarse directamente un comando para instalar paquetes:
 
+`>install.packages("<paquete>")`
+
+Sustituyendo `<paquete>` por el nombre del paquete a instalar.
 
 ###Experimentos
 
