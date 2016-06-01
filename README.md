@@ -146,4 +146,14 @@ Nº | Descripción de manipulación de datos | Resumen de algoritmos y software 
 11 | Usar 200 árboles de decisión en al mismo ejemplo de la prueba 9 | MissingValues y randomForest | 5/05 | 0.76077 | 813 |
 12 | Usar 50 árboles de decisión en al mismo ejemplo de la prueba 9 | MissingValues y randomForest | 5/05 | 0.76077 | 813 |
 
+###Bibliografía
+* (s.f.). Obtenido de http://rstudio-pubs-static.s3.amazonaws.com/24969_894d890964fd4308ab537bfde1f784d2.html
+* (s.f.). Obtenido de https://www.kaggle.com/benhamner/titanic/random-forest-benchmark-r/
+* (s.f.). Obtenido de https://www.kaggle.com/mrisdal/titanic/exploring-survival-on-the-titanic/comments
+* (s.f.). Obtenido de https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md
+* (s.f.). Obtenido de https://statsguys.wordpress.com/2014/01/03/first-post/
+* (s.f.). Obtenido de http://trevorstephens.com/post/73770963794/titanic-getting-started-with-r-part-5-random
+* (s.f.). Obtenido de http://trevorstephens.com/post/72916401642/titanic-getting-started-with-r
+* (s.f.). Obtenido de https://www.datacamp.com/courses/kaggle-tutorial-on-machine-learing-the-sinking-of-the-titanic?utm_source=kaggle-ml-launch&utm_medium=blog&utm_campaign=kaggle-ml-launch
+
 [*José Manuel Rodríguez*](http://twitter.com/Jose_M01)
